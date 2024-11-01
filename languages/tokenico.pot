@@ -1,0 +1,1045 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TokenICO - Cryptocurrency (Token), Launchpad (Presale), "
+"ICO & IDO, Airdrop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-15 01:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: tokenico"
+
+#: app/Lang.php:57
+#, php-format
+msgid "\"%s\" field cannot be left blank."
+msgstr ""
+
+#: app/Lang.php:98
+msgid "A connection request is already pending, check the wallet plugin!"
+msgstr ""
+
+#: app/Lang.php:95
+#, php-format
+msgid ""
+"A total of %s1 %s2 tokens that you have purchased will be sent to your "
+"address."
+msgstr ""
+
+#: app/Lang.php:18
+msgid "Active chain: "
+msgstr ""
+
+#: app/Settings.php:260
+msgid "Active/Passive"
+msgstr ""
+
+#: app/Settings.php:98
+msgid "Add networks you want to sell."
+msgstr ""
+
+#: app/Settings.php:99 app/PostType/Presale.php:54
+msgid "Add new"
+msgstr ""
+
+#: app/PostType/Presale.php:55
+msgid "Add new presale"
+msgstr ""
+
+#: views/presale/content.php:40
+msgid "Address: "
+msgstr ""
+
+#: app/PostType/Metabox.php:67
+msgid "Admin address :"
+msgstr ""
+
+#: views/presale/list.php:8 views/presale/list.php:15
+msgid "All"
+msgstr ""
+
+#: app/Lang.php:84
+msgid "An error occurred during the purchase!"
+msgstr ""
+
+#: app/Lang.php:38 app/Lang.php:78
+msgid "An unexpected error has occurred"
+msgstr ""
+
+#: app/Lang.php:74
+msgid "Approval failed, please try again."
+msgstr ""
+
+#: app/Lang.php:82
+msgid "Are you sure?"
+msgstr ""
+
+#: app/PostType/Metabox.php:253
+msgid "Auto transfer :"
+msgstr ""
+
+#: app/Lang.php:41
+msgid ""
+"Awaiting verification of payment via blockchain. Please do not close the "
+"page."
+msgstr ""
+
+#: app/Settings.php:289 app/Settings.php:294
+msgid "Backup"
+msgstr ""
+
+#: app/Settings.php:239
+msgid ""
+"Because the default RPC addresses of blockchain networks are public and used "
+"by everyone. Sometimes they can restrict you so some times you need a "
+"special RPC address."
+msgstr ""
+
+#. Author of the plugin
+msgid "BeycanPress"
+msgstr ""
+
+#: app/PostType/Metabox.php:93
+msgid "Blockchain network :"
+msgstr ""
+
+#: app/Lang.php:80
+msgid "Buy now"
+msgstr ""
+
+#: app/Lang.php:33 app/Lang.php:59
+msgid "Cancel"
+msgstr ""
+
+#: app/Settings.php:249
+msgid "Chain ID"
+msgstr ""
+
+#: app/Settings.php:216
+msgid "Chain ID cannot be empty."
+msgstr ""
+
+#: app/Lang.php:87
+msgid "Claim"
+msgstr ""
+
+#: app/Lang.php:34 app/Lang.php:58
+msgid "Confirm"
+msgstr ""
+
+#: app/Lang.php:24
+msgid "Confirm donate"
+msgstr ""
+
+#: app/Lang.php:32
+msgid "Confirm payment"
+msgstr ""
+
+#: app/Lang.php:40
+msgid "Confirm this action in your wallet"
+msgstr ""
+
+#: app/Lang.php:10
+msgid "Connect wallet"
+msgstr ""
+
+#: app/Lang.php:19
+msgid "Connected account: "
+msgstr ""
+
+#: app/Lang.php:17
+msgid "Connected wallet: "
+msgstr ""
+
+#: app/Lang.php:15 app/Lang.php:65
+msgid "Connection refused"
+msgstr ""
+
+#: app/Lang.php:96
+msgid "Continue"
+msgstr ""
+
+#: app/PostType/Presale.php:107
+msgid "Contract"
+msgstr ""
+
+#: app/PostType/Metabox.php:84
+msgid "Contract :"
+msgstr ""
+
+#: app/Lang.php:69
+msgid "Contract being deployed please wait..."
+msgstr ""
+
+#: app/PostType/Metabox.php:62
+msgid "Contract version :"
+msgstr ""
+
+#: views/content.php:45 views/presale/content.php:125
+msgid "Copy token address"
+msgstr ""
+
+#: app/Lang.php:91
+msgid "Copying to clipboard was successful!"
+msgstr ""
+
+#: app/Lang.php:92
+msgid "Could not copy text: "
+msgstr ""
+
+#: app/Pages/SalesList.php:48
+msgid "Created at"
+msgstr ""
+
+#. Description of the plugin
+msgid "Cryptocurrency (Token), Launchpad (Presale), ICO & IDO, Airdrop"
+msgstr ""
+
+#: app/Settings.php:30
+msgid "Data deletion status"
+msgstr ""
+
+#: app/Settings.php:278
+msgid "Decimals"
+msgstr ""
+
+#: app/Pages/SalesList.php:49 app/Pages/SalesList.php:96
+msgid "Delete"
+msgstr ""
+
+#: app/Lang.php:47
+msgid "Disconnect"
+msgstr ""
+
+#: app/Lang.php:22
+msgid "Donate"
+msgstr ""
+
+#: app/Lang.php:21
+msgid "Donate amount: "
+msgstr ""
+
+#: app/Lang.php:25
+msgid "Donate rejected"
+msgstr ""
+
+#: app/Lang.php:45
+msgid "Donation sent successfully"
+msgstr ""
+
+#: app/PostType/Presale.php:56
+msgid "Edit presale"
+msgstr ""
+
+#: app/PostType/Metabox.php:238
+msgid "End date :"
+msgstr ""
+
+#: app/PostType/Metabox.php:246
+msgid "End date cannot be empty."
+msgstr ""
+
+#: views/presale/content.php:113 views/presale/item.php:87
+msgid "End date: "
+msgstr ""
+
+#: views/presale/list.php:11
+msgid "Ended"
+msgstr ""
+
+#: app/Lang.php:12
+msgid "Establishing connection please wait!"
+msgstr ""
+
+#: app/PostType/Metabox.php:184
+msgid "Example: 1 COIN = 100000 TOKEN"
+msgstr ""
+
+#: app/PostType/Metabox.php:183
+msgid "Exchange rate :"
+msgstr ""
+
+#: app/PostType/Metabox.php:194
+msgid "Exchange rate cannot be empty."
+msgstr ""
+
+#: app/PostType/Metabox.php:196
+msgid "Exchange rate cannot be less than 0!"
+msgstr ""
+
+#: views/content.php:33
+msgid "Exchange Rate: "
+msgstr ""
+
+#: views/presale/content.php:97 views/presale/item.php:71
+msgid "Exchange rate: "
+msgstr ""
+
+#: app/Settings.php:254
+msgid "Explorer URL"
+msgstr ""
+
+#: app/Settings.php:218
+msgid "Explorer URL cannot be empty."
+msgstr ""
+
+#: views/presale/list.php:21
+msgid "Filter"
+msgstr ""
+
+#: app/Settings.php:25
+msgid "General options"
+msgstr ""
+
+#: app/Settings.php:262
+msgid "Get paid in this network?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://beycanpress.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://tokenico.beycanpress.com"
+msgstr ""
+
+#: app/Lang.php:71
+msgid ""
+"I think you entered an invalid token address. Please enter a valid token "
+"address."
+msgstr ""
+
+#: app/Settings.php:246
+msgid ""
+"If you want to enable QR payments on this network, please provide a "
+"Websocket URL."
+msgstr ""
+
+#: app/PostType/Metabox.php:33
+msgid "Important note :"
+msgstr ""
+
+#: app/Lang.php:56
+msgid "Infura id is required for WalletConnect"
+msgstr ""
+
+#: app/Lang.php:35
+msgid "Insufficient balance!"
+msgstr ""
+
+#: app/Lang.php:77
+msgid "Insufficient balance."
+msgstr ""
+
+#: app/Lang.php:94
+msgid "Insufficient liquidity by the seller."
+msgstr ""
+
+#: app/Lang.php:50 app/Lang.php:75
+msgid "Intrinsic gas too low"
+msgstr ""
+
+#: app/Lang.php:61
+msgid "Invalid contract address"
+msgstr ""
+
+#: app/PostType/Metabox.php:254
+msgid ""
+"It will be transferred automatically when the payment is completed. If it is "
+"closed, they can get the tokens they bought with the claim button after the "
+"presale is over."
+msgstr ""
+
+#: app/PostType/Metabox.php:239
+msgid ""
+"It's date to end the presale. (Adjust the time according to the UTC time "
+"zone)"
+msgstr ""
+
+#: app/PostType/Metabox.php:224
+msgid ""
+"It's date to start the presale. (Adjust the time according to the UTC time "
+"zone)"
+msgstr ""
+
+#: views/presale/list.php:30
+msgid "Load more presale"
+msgstr ""
+
+#: views/content.php:55 views/presale/content.php:135 views/presale/list.php:29
+msgid "Loading..."
+msgstr ""
+
+#: app/PostType/Metabox.php:163
+msgid "Max contribution : (Native coin)"
+msgstr ""
+
+#: app/PostType/Metabox.php:174
+msgid "Max contribution cannot be empty."
+msgstr ""
+
+#: app/PostType/Metabox.php:176
+msgid "Max contribution cannot be less than 0!"
+msgstr ""
+
+#: views/presale/content.php:89 views/presale/item.php:63
+msgid "Max contribution: "
+msgstr ""
+
+#: app/PostType/Metabox.php:164
+msgid ""
+"Maximum purchase limit for a user. (The native coin of the network where you "
+"will publish the contract)"
+msgstr ""
+
+#: app/PostType/Metabox.php:143
+msgid "Min contribution : (Native coin)"
+msgstr ""
+
+#: app/PostType/Metabox.php:154
+msgid "Min contribution cannot be empty."
+msgstr ""
+
+#: app/PostType/Metabox.php:156
+msgid "Min contribution cannot be less than 0!"
+msgstr ""
+
+#: views/presale/content.php:81 views/presale/item.php:55
+msgid "Min contribution: "
+msgstr ""
+
+#: app/Lang.php:68
+msgid ""
+"Minimum contribution and maximum contribution cannot exceed the total sales "
+"limit!"
+msgstr ""
+
+#: app/PostType/Metabox.php:144
+msgid ""
+"Minimum purchase limit for a user. (The native coin of the network where you "
+"will publish the contract)"
+msgstr ""
+
+#: views/presale/content.php:24
+msgid "Name: "
+msgstr ""
+
+#: app/Settings.php:268
+msgid "Native currency"
+msgstr ""
+
+#: app/Settings.php:222
+msgid "Native currency Decimals cannot be empty."
+msgstr ""
+
+#: app/Settings.php:220
+msgid "Native currency symbol cannot be empty."
+msgstr ""
+
+#: app/Pages/SalesList.php:42 app/PostType/Presale.php:106
+msgid "Network"
+msgstr ""
+
+#: app/PostType/Metabox.php:72
+msgid "Network :"
+msgstr ""
+
+#: app/Lang.php:51
+msgid "Network change detected page will reload."
+msgstr ""
+
+#: app/PostType/Metabox.php:57
+msgid "Network Id :"
+msgstr ""
+
+#: app/Settings.php:231
+msgid "Network name"
+msgstr ""
+
+#: app/PostType/Metabox.php:78
+msgid "Network name :"
+msgstr ""
+
+#: app/Settings.php:212
+msgid "Network name cannot be empty."
+msgstr ""
+
+#: app/Settings.php:236
+msgid "Network RPC URL"
+msgstr ""
+
+#: app/Settings.php:214
+msgid "Network RPC URL cannot be empty."
+msgstr ""
+
+#: app/Settings.php:243
+msgid "Network Websocket URL"
+msgstr ""
+
+#: views/presale/content.php:57 views/presale/item.php:31
+#: views/presale/list.php:13
+msgid "Network: "
+msgstr ""
+
+#: app/Settings.php:91 app/Settings.php:96
+msgid "Networks"
+msgstr ""
+
+#: app/Lang.php:44
+msgid "No active chains found, please contact the site administrator."
+msgstr ""
+
+#: app/Lang.php:43
+msgid "No active wallets found, please contact the site administrator."
+msgstr ""
+
+#: app/PostType/Presale.php:58
+msgid "No presale found"
+msgstr ""
+
+#: app/PostType/Presale.php:59
+msgid "No presale found in Trash"
+msgstr ""
+
+#: app/Pages/SalesList.php:91
+msgid "No sent"
+msgstr ""
+
+#: app/Api.php:135 app/Api.php:245
+msgid "No such presale was found!"
+msgstr ""
+
+#: app/Lang.php:52
+msgid "Not accepted currency"
+msgstr ""
+
+#: app/Lang.php:28
+msgid "Not currency selected"
+msgstr ""
+
+#: app/Services/PresaleList.php:35 app/Services/PresaleList.php:61
+msgid "Not found id parameter!"
+msgstr ""
+
+#: app/Services/PresaleList.php:41 app/Services/PresaleList.php:44
+#: app/Services/PresaleList.php:67 app/Services/PresaleList.php:70
+#: views/presale/item.php:103
+msgid "Not found presale!"
+msgstr ""
+
+#: views/presale/list.php:10
+msgid "Not started"
+msgstr ""
+
+#: app/Lang.php:20
+msgid "Order price: "
+msgstr ""
+
+#: app/Lang.php:31
+msgid "Pay with"
+msgstr ""
+
+#: app/Lang.php:46
+msgid "Payment completed successfully"
+msgstr ""
+
+#: app/Lang.php:27
+msgid "Payment currency: "
+msgstr ""
+
+#: app/Lang.php:37
+msgid "Payment not verified via Blockchain"
+msgstr ""
+
+#: app/Lang.php:26
+msgid "Payment price: "
+msgstr ""
+
+#: app/Lang.php:36
+msgid "Payment rejected"
+msgstr ""
+
+#: app/Lang.php:14
+msgid "Please connect to a wallet to continue"
+msgstr ""
+
+#: app/Api.php:236
+msgid "Please enter a address!"
+msgstr ""
+
+#: app/Settings.php:80
+msgid "Please enter a Project ID for WalletConnect to work."
+msgstr ""
+
+#: app/Api.php:130 app/Api.php:240
+msgid "Please enter a valid data."
+msgstr ""
+
+#: app/Lang.php:81
+msgid "Please enter an amount!"
+msgstr ""
+
+#: app/Lang.php:23
+msgid "Please enter donation amount"
+msgstr ""
+
+#: app/Lang.php:30
+msgid "Please select the currency you want to donate in"
+msgstr ""
+
+#: app/Lang.php:29
+msgid "Please select the currency you want to pay in"
+msgstr ""
+
+#: app/Lang.php:72
+msgid "Please wait for the approval process."
+msgstr ""
+
+#: app/Lang.php:39 views/presale/list.php:20
+msgid "Please wait..."
+msgstr ""
+
+#: app/PostType/Presale.php:53
+msgid "Presale"
+msgstr ""
+
+#: app/PostType/Metabox.php:99
+msgid "Presale contract address :"
+msgstr ""
+
+#: app/Api.php:155 app/PostType/Presale.php:144 views/presale/content.php:16
+#: views/presale/item.php:23
+msgid "Presale ended"
+msgstr ""
+
+#: app/Pages/SalesList.php:41
+msgid "Presale id"
+msgstr ""
+
+#: app/Api.php:151 app/PostType/Presale.php:146 views/presale/content.php:18
+#: views/presale/item.php:25
+msgid "Presale not started"
+msgstr ""
+
+#: app/PostType/Metabox.php:22
+msgid "Presale options"
+msgstr ""
+
+#: app/PostType/Presale.php:142 views/presale/content.php:14
+#: views/presale/item.php:21
+msgid "Presale started"
+msgstr ""
+
+#: app/PostType/Metabox.php:263
+msgid "Presale status"
+msgstr ""
+
+#: views/content.php:17
+msgid "Presale: Finished"
+msgstr ""
+
+#: app/PostType/Presale.php:52
+msgid "Presales"
+msgstr ""
+
+#: app/Services/PresaleList.php:86
+msgid "Presales are not available for preview!"
+msgstr ""
+
+#: app/Pages/SalesList.php:46
+msgid "Purchase amount"
+msgstr ""
+
+#: app/Lang.php:83
+msgid "Purchase amount :"
+msgstr ""
+
+#: app/Lang.php:86
+msgid ""
+"Purchase completed successfully! After the presale is over, you can claim "
+"tokens with the claim button!"
+msgstr ""
+
+#: app/Lang.php:85
+msgid ""
+"Purchase completed successfully! Tokens will be sent to your account shortly!"
+msgstr ""
+
+#: app/Pages/SalesList.php:45
+msgid "Quantity purchased"
+msgstr ""
+
+#: app/Pages/SalesList.php:44
+msgid "Receiver address"
+msgstr ""
+
+#: app/PostType/Presale.php:109
+msgid "Remaining limit"
+msgstr ""
+
+#: app/PostType/Metabox.php:46 app/PostType/Metabox.php:281
+msgid "Remaining limit :"
+msgstr ""
+
+#: views/presale/content.php:73 views/presale/item.php:47
+msgid "Remaining limit: "
+msgstr ""
+
+#: app/Lang.php:88
+msgid "Request rejected"
+msgstr ""
+
+#: app/Lang.php:76
+msgid "Request rejected."
+msgstr ""
+
+#: views/presale/item.php:96
+msgid "Review"
+msgstr ""
+
+#: views/content.php:14
+msgid "Sale Ends In"
+msgstr ""
+
+#: views/pages/sales-list.php:5
+msgid "Sale list"
+msgstr ""
+
+#: views/content.php:19
+msgid "Sale Starts In"
+msgstr ""
+
+#: app/Pages/SalesList.php:23
+msgid "Sales list"
+msgstr ""
+
+#: app/PostType/Presale.php:57
+msgid "Search presale"
+msgstr ""
+
+#: app/Pages/SalesList.php:55
+msgid "Search..."
+msgstr ""
+
+#: app/Pages/SalesList.php:47 app/Pages/SalesList.php:89
+msgid "Sent"
+msgstr ""
+
+#: app/Settings.php:21
+msgid "Settings"
+msgstr ""
+
+#: app/PostType/Presale.php:104
+msgid "Shortcode"
+msgstr ""
+
+#: views/content.php:27
+msgid "SOLD"
+msgstr ""
+
+#: app/Settings.php:39
+msgid ""
+"Specify the wallets you want to accept payments from. (Only payment process)"
+msgstr ""
+
+#: app/PostType/Metabox.php:223
+msgid "Start date :"
+msgstr ""
+
+#: app/PostType/Metabox.php:231
+msgid "Start date cannot be empty."
+msgstr ""
+
+#: views/presale/content.php:105 views/presale/item.php:79
+msgid "Start date: "
+msgstr ""
+
+#: views/presale/list.php:9
+msgid "Started"
+msgstr ""
+
+#: app/PostType/Presale.php:110
+msgid "Status"
+msgstr ""
+
+#: views/presale/list.php:6
+msgid "Status: "
+msgstr ""
+
+#: app/Pages/SalesList.php:36
+msgid "Successfully deleted!"
+msgstr ""
+
+#: app/Lang.php:48
+msgid "Supported networks"
+msgstr ""
+
+#: app/Settings.php:273
+msgid "Symbol"
+msgstr ""
+
+#: views/presale/content.php:32
+msgid "Symbol: "
+msgstr ""
+
+#: app/Lang.php:73
+msgid ""
+"The approval process has been successfully completed and the presale will be "
+"published!"
+msgstr ""
+
+#: app/Lang.php:62
+msgid ""
+"The current network is not added to the list of allowed networks. To be able "
+"to use the network, please add it to the allowed networks in the settings "
+"first."
+msgstr ""
+
+#: app/Settings.php:240
+msgid "The current RPC address of the network or your custom RPC address."
+msgstr ""
+
+#: app/Lang.php:90
+msgid "The MetaMask you want to connect to could not be detected!"
+msgstr ""
+
+#: app/Lang.php:67
+msgid ""
+"The minimum contribution cannot be greater than the maximum contribution."
+msgstr ""
+
+#: app/Lang.php:89
+msgid ""
+"The operation completed successfully. The tokens you purchased will be "
+"reflected in your account shortly."
+msgstr ""
+
+#: app/Lang.php:53
+msgid "The operation timed out, The page will reload."
+msgstr ""
+
+#: app/Api.php:181
+#, php-format
+msgid ""
+"The purchase amount exceeds the maximum participation rate. Currently, you "
+"can purchase a maximum of %s %s amount of."
+msgstr ""
+
+#: app/Lang.php:66
+msgid "The start date cannot be greater than the end date."
+msgstr ""
+
+#: app/PostType/Metabox.php:35
+#, php-format
+msgid ""
+"The token you want to sell must be in the wallet where you deploy the "
+"contract, equal to the total amount you will sell. Example You will sell  "
+"worth 10 COINs. You will give 10 TOKENs for 1 COIN. That is, you must have a "
+"minimum of 100 TOKENs in your wallet. %s Also, please check that your server "
+"time is correct according to the time zone. If not true. Although the pre-"
+"sale starts on your site, it will not start on the blockchain network. This "
+"produces an unexpected error message!"
+msgstr ""
+
+#: app/PostType/Metabox.php:121
+#, php-format
+msgid ""
+"The total amount of native coins you want to earn. (The native coin of the "
+"network where you will publish the contract) %s\n"
+"                        \n"
+"                            This total should be the native coin value you "
+"want to earn. Together with the Exchange rate the total amount of tokens you "
+"will sell is determined. For example, if you want to earn 100 ETH in total, "
+"this value should be 100. If you are going to sell a total of 100000 TOKEN, "
+"the exchange rate should be 1000. For 1 ETH you will give 1000 TOKEN. This "
+"will total 100000 TOKEN."
+msgstr ""
+
+#: app/Lang.php:99
+msgid "The transfer amount cannot be less than zero."
+msgstr ""
+
+#: app/Lang.php:11 app/Lang.php:64
+msgid "The wallet you want to connect to could not be detected!"
+msgstr ""
+
+#: app/Lang.php:63
+msgid "The wallet you want to connect to is not accepted."
+msgstr ""
+
+#: app/Lang.php:93
+msgid ""
+"There is not enough balance in your wallet for the token you want to sell!"
+msgstr ""
+
+#: app/Lang.php:49
+msgid "There was a problem converting currency!"
+msgstr ""
+
+#: app/Lang.php:55
+msgid "There was a problem establishing the connection!"
+msgstr ""
+
+#: app/Lang.php:97
+msgid ""
+"There was a problem setting the dates, please refresh the page and try again."
+msgstr ""
+
+#: app/Api.php:161
+msgid "This presale has reached the total sales limit!"
+msgstr ""
+
+#: app/Settings.php:33
+msgid ""
+"This setting is passive come by default. You enable this setting. All data "
+"created by the plug-in will be deleted while removing the plug-in."
+msgstr ""
+
+#: views/content.php:42 views/presale/content.php:122
+msgid "Times are in UTC time zone!"
+msgstr ""
+
+#: app/Lang.php:70
+msgid ""
+"To be able to sell tokens, the contract address needs confirmation of use. "
+"Please confirm!"
+msgstr ""
+
+#: app/PostType/Presale.php:105
+msgid "Token"
+msgstr ""
+
+#: app/PostType/Metabox.php:52
+msgid "Token :"
+msgstr ""
+
+#: app/PostType/Metabox.php:111
+msgid "Token address cannot be empty."
+msgstr ""
+
+#: app/PostType/Metabox.php:113
+msgid "Token address must consist of 42 characters."
+msgstr ""
+
+#: app/PostType/Metabox.php:104
+msgid "Token contract address :"
+msgstr ""
+
+#: app/Pages/SalesList.php:22
+msgid "TokenICO"
+msgstr ""
+
+#. Name of the plugin
+msgid ""
+"TokenICO - Cryptocurrency (Token), Launchpad (Presale), ICO & IDO, Airdrop"
+msgstr ""
+
+#: app/PostType/Metabox.php:134
+msgid "Total limit cannot be empty."
+msgstr ""
+
+#: app/PostType/Metabox.php:136
+msgid "Total limit cannot be less than 0!"
+msgstr ""
+
+#: app/PostType/Metabox.php:120
+msgid "Total sale limit : (Native coin)"
+msgstr ""
+
+#: views/presale/content.php:65 views/presale/item.php:39
+msgid "Total sale limit: "
+msgstr ""
+
+#: app/PostType/Presale.php:108
+msgid "Total sales"
+msgstr ""
+
+#: app/PostType/Metabox.php:40 app/PostType/Metabox.php:275
+msgid "Total sales :"
+msgstr ""
+
+#: views/presale/content.php:48
+msgid "Total supply: "
+msgstr ""
+
+#: app/Pages/SalesList.php:40
+msgid "Transaction id"
+msgstr ""
+
+#: app/Lang.php:42
+msgid "Transaction Id: "
+msgstr ""
+
+#: app/Pages/SalesList.php:43
+msgid "Used wallet"
+msgstr ""
+
+#: app/Lang.php:13
+msgid "Waiting..."
+msgstr ""
+
+#: app/Settings.php:79
+msgid "WalletConnect Project ID"
+msgstr ""
+
+#: app/Settings.php:38
+msgid "Wallets"
+msgstr ""
+
+#: app/Lang.php:60
+#, php-format
+msgid ""
+"You are about to publish the contract on network \"%s\". Do you want to "
+"continue?"
+msgstr ""
+
+#: app/Lang.php:16
+msgid ""
+"You are currently on an unsupported network, please try again after passing "
+"one of the supported networks"
+msgstr ""
+
+#: app/Api.php:185
+msgid "You are exceeding the maximum purchase limit!"
+msgstr ""
+
+#: app/Api.php:175
+msgid "You are exceeding the minimum purchase limit!"
+msgstr ""
+
+#: app/Lang.php:100
+msgid "You did not pay the transaction fee!"
+msgstr ""
+
+#: app/Api.php:255
+msgid ""
+"You haven't bought any tokens! Or all your purchased tokens have been sent!"
+msgstr ""
+
+#: app/Settings.php:71
+msgid "You must activate at least one wallet!"
+msgstr ""
+
+#: app/Settings.php:226
+msgid "You must add at least one blockchain network!"
+msgstr ""
+
+#: app/Lang.php:79
+#, php-format
+msgid "You will receive %s1 %s2 tokens for %s3 %s4, confirm?"
+msgstr ""
+
+#: app/Api.php:169
+msgid "Your amount exceeds the remaining sale limit!"
+msgstr ""
+
+#: app/Lang.php:54
+msgid "{discountRate}% discount on purchases with this coin."
+msgstr ""
